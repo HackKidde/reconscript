@@ -1,5 +1,5 @@
 #!/bin/bash 
-
+mkdir scope scans
 # set vars 
 figlet Made-By-RootKit
 id="$1"
