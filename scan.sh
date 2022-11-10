@@ -1,7 +1,7 @@
 #!/bin/bash 
 mkdir scope scans
 # set vars 
-figlet Made-By-RootKit
+figlet Bash-Heist
 id="$1"
 ppath="$(pwd)"
 scope_path="$ppath/scope/$id"
