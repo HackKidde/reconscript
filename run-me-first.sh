@@ -22,7 +22,7 @@ if [ flag==1 ]; then
 	go install -v github.com/jaeles-project/gospider@latest
 	go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 	go install -v github.com/projectdiscovery/shuffledns/cmd/shuffledns@latest
-	go install github.com/pry0cc/tew@latest
+	go install -v github.com/pry0cc/tew@latest
 	go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest
 	sleep 1
 	clear
